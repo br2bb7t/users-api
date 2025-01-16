@@ -19,7 +19,7 @@ Este es un proyecto de ejemplo para una API RESTful construida con Express.js, P
 
 ---
 
-![Diagrama-C4](https://github.com/user-attachments/assets/ac514ccc-69ac-4b0b-859e-498d6ee9b22d)
+![Diagrama-C4](https://github.com/user-attachments/assets/fd1b74b6-4bc6-4ba3-96a8-32c3c24a3c72)
 
 --- 
 
