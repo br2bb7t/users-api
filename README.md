@@ -3,9 +3,11 @@
 ## Descripción
 
 Este es un proyecto de ejemplo para una API RESTful construida con Express.js, PostgreSQL y Swagger para la documentación de la API. La API permite registrar usuarios y validar la entrada de datos utilizando express-validator.
+---
 
 ![Diagrama-Secuencia](https://github.com/user-attachments/assets/a09a5bc9-7ac5-4c3f-93b4-7d040973c890)
 
+---
 
 ## Características principales:
 - **Registro de usuarios:** Permite registrar usuarios con un nombre, correo electrónico y edad.
@@ -15,6 +17,10 @@ Este es un proyecto de ejemplo para una API RESTful construida con Express.js, P
 - **Docker:** El proyecto también se puede ejecutar en contenedores Docker para facilitar la implementación y gestión tanto de la aplicación como de la base de datos.
 
 ---
+
+![Diagrama-C4](https://github.com/user-attachments/assets/ac514ccc-69ac-4b0b-859e-498d6ee9b22d)
+
+--- 
 
 ## Requisitos
 
