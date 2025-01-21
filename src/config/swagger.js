@@ -1,12 +1,12 @@
 module.exports = {
     definition: {
-      openapi: '3.0.0',  // Define la versión de OpenAPI
+      openapi: '3.0.0',
       info: {
-        title: 'API de Ejemplo',
+        title: 'API de Usuarios',
         version: '1.0.0',
         description: 'Una API de ejemplo con Express y Swagger',
       },
     },
-    apis: ['./src/routes/*.js'],  // Apunta a tus archivos de rutas para buscar las definiciones de Swagger
+    apis: ['./src/routes/*.js'], 
   };
   
